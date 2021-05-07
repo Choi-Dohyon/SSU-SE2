@@ -558,4 +558,3 @@ ex )  \*\*강조하기**
 
 * [Markdown 확장 구문 알아보기](https://github.com/Choi-Dohyon/SSU-SE/blob/main/README.md "Markdown 확장 구문 알아보기")
   
-끝
